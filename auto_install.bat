@@ -1,0 +1,1 @@
+c:\sql2016\setup.exe /ConfigurationFile=ConfigurationFile.INI
